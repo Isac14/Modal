@@ -53,6 +53,9 @@ button:hover{
 
 .modal-container{
     background-color: rgba(73, 93, 80, 1);
+    color: white;
+    text-align: justify;
+    text-indent: 35px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
